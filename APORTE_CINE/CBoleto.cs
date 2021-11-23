@@ -9,7 +9,7 @@ namespace APORTE_CINE
         private string Nombre;
         private int Numero;
         private string Película;
-        private tring Genero;
+        private string Genero;
         private double duración;
 
         public string Nombre1 { get => Nombre; set => Nombre = value; }

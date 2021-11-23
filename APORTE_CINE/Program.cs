@@ -29,7 +29,10 @@ namespace APORTE_CINE
             boleto.Add(new CBoleto { Nombre1 = "Adrian", Numero1 = 15, Película1 = "Aladdin", Genero1 = "Aventura", Duración = 2 });
             boleto.Add(new CBoleto { Nombre1 = "Annel", Numero1 = 20, Película1 = "Avengers", Genero1 = "Acción", Duración = 2.2 });
             boleto.Add(new CBoleto { Nombre1 = "Pedro", Numero1 = 18, Película1 = "Pikachu", Genero1 = "Acción", Duración = 2 });
-
+            boleto.Add(new CBoleto { Nombre1 = "Annel", Numero1 = 20, Película1 = "Avengers", Genero1 = "Acción", Duración = 2.2 });
+            boleto.Add(new CBoleto { Nombre1 = "Pedro", Numero1 = 18, Película1 = "Pikachu", Genero1 = "Acción", Duración = 2 });
+            boleto.Add(new CBoleto { Nombre1 = "Annel", Numero1 = 20, Película1 = "Avengers", Genero1 = "Acción", Duración = 2.2 });
+            boleto.Add(new CBoleto { Nombre1 = "Pedro", Numero1 = 18, Película1 = "Pikachu", Genero1 = "Acción", Duración = 2 });
             int op = 0;
             string name = "";
             int number = 0;
